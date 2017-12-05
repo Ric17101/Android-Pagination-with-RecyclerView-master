@@ -1,0 +1,25 @@
+==========================================================================
+DESC: Android Pagination integrated with MovieDB API
+    Pagination with https://www.themoviedb.org
+SRC: https://github.com/Suleiman19/Android-Pagination-with-RecyclerView
+DATE: December 04, 2017
+Library included:
+    - retrofit
+    - GSON
+    - Glide
+    - Interceptor
+OBJECTIVE: For Research and Testing
+
+
+
+==========================================================================
+APK DEV HISTORY:
+==========================================================================
+
+December 04, 2017
+*Initial Commit to https://github.com/Ric17101/Android-Pagination-with-RecyclerView-master
+*TODO:
+    - remove https://github.com/Ric17101/AndroidPagination
+
+December 05, 2017
+*Change - API Key and created account at https://www.themoviedb.org

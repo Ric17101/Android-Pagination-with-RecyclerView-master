@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Pagination</string>
-    <string name="my_api_key">ec01f8c2eb6ac402f2ca026dc2d9b8fd</string>
+    <string name="my_api_key">b653b15a57cc375966fed67d3d9f483e</string>
+    <string name="my_api_key_old">ec01f8c2eb6ac402f2ca026dc2d9b8fd</string>
     <string name="error_msg">Sorry! Couldn\'t fetch movies.</string>
     <string name="btn_retry">Retry</string>
     <string name="error_msg_no_internet">Not connected to internet</string>
